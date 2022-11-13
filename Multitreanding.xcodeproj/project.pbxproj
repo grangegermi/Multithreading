@@ -13,6 +13,10 @@
 		DB7B72FC2920191900192F1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB7B72FA2920191900192F1F /* Main.storyboard */; };
 		DB7B72FE2920191C00192F1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB7B72FD2920191C00192F1F /* Assets.xcassets */; };
 		DB7B73012920191C00192F1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB7B72FF2920191C00192F1F /* LaunchScreen.storyboard */; };
+		DB7B73092920196F00192F1F /* first.json in Resources */ = {isa = PBXBuildFile; fileRef = DB7B73082920196F00192F1F /* first.json */; };
+		DB7B730B2920198C00192F1F /* second.json in Resources */ = {isa = PBXBuildFile; fileRef = DB7B730A2920198C00192F1F /* second.json */; };
+		DB7B730D292019A600192F1F /* third.json in Resources */ = {isa = PBXBuildFile; fileRef = DB7B730C292019A600192F1F /* third.json */; };
+		DB7B730F29201A4700192F1F /* forth.json in Resources */ = {isa = PBXBuildFile; fileRef = DB7B730E29201A4700192F1F /* forth.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		DB7B72FD2920191C00192F1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB7B73002920191C00192F1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB7B73022920191C00192F1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB7B73082920196F00192F1F /* first.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = first.json; sourceTree = "<group>"; };
+		DB7B730A2920198C00192F1F /* second.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = second.json; sourceTree = "<group>"; };
+		DB7B730C292019A600192F1F /* third.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = third.json; sourceTree = "<group>"; };
+		DB7B730E29201A4700192F1F /* forth.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = forth.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				DB7B72F42920191900192F1F /* AppDelegate.swift */,
 				DB7B72F62920191900192F1F /* SceneDelegate.swift */,
 				DB7B72F82920191900192F1F /* ViewController.swift */,
+				DB7B73082920196F00192F1F /* first.json */,
+				DB7B730A2920198C00192F1F /* second.json */,
+				DB7B730C292019A600192F1F /* third.json */,
+				DB7B730E29201A4700192F1F /* forth.json */,
 				DB7B72FA2920191900192F1F /* Main.storyboard */,
 				DB7B72FD2920191C00192F1F /* Assets.xcassets */,
 				DB7B72FF2920191C00192F1F /* LaunchScreen.storyboard */,
@@ -125,9 +137,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB7B730F29201A4700192F1F /* forth.json in Resources */,
+				DB7B730B2920198C00192F1F /* second.json in Resources */,
 				DB7B73012920191C00192F1F /* LaunchScreen.storyboard in Resources */,
 				DB7B72FE2920191C00192F1F /* Assets.xcassets in Resources */,
+				DB7B73092920196F00192F1F /* first.json in Resources */,
 				DB7B72FC2920191900192F1F /* Main.storyboard in Resources */,
+				DB7B730D292019A600192F1F /* third.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
